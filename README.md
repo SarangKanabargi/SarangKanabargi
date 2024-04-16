@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1>Hi, I'm Sarang! <a href="https://www.linkedin.com/in/sarangkanabargi/">Systems Engineer</a></h1>
+
+<h1>Hi 👋, I'm Sarang! <a href="https://www.linkedin.com/in/sarangkanabargi/">Systems Engineer</a></h1>
 <h2> 🔭 What am I doing right now? </h2>
 
 - <b>Standup Infrastructure to run GenAI Workloads on GCP & AWS</b>
