@@ -1,4 +1,10 @@
 ### Hi there 👋
+<h1>Hi, I'm Sarang! <br/><a href="https://www.linkedin.com/in/sarangkanabargi/">Systems Engineer</a></h1>
+
+<h2> 🤳 Connect with me:</h2>
+
+[twitter]: https://twitter.com/SarangKan
+[linkedin]: https://www.linkedin.com/in/sarangkanabargi/
 
 <!--
 **SarangKanabargi/SarangKanabargi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
