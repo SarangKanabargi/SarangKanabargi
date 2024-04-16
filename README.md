@@ -1,7 +1,8 @@
 ### Hi there 👋
 <h1>Hi, I'm Sarang! <br/><a href="https://www.linkedin.com/in/sarangkanabargi/">Systems Engineer</a></h1>
-<h2> 🔭 I'm currently working to standing up infrastructure to support Gen AI workloads</h2>
+<h2> 🔭 Software Development Projects:</h2>
 
+- <b>Standup Infrastructure to run GenAI Workloads on GCP & AWS</b>
 
 <h2> 📫 Connect with me:</h2>
 
